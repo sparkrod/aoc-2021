@@ -1,0 +1,2000 @@
+ (N/A - No previous measurement)
+ (increased) total: 1
+ (increased) total: 2
+ (no increase)
+ (increased) total: 3
+ (increased) total: 4
+ (increased) total: 5
+ (no increase)
+ (increased) total: 6
+ (no increase)
+ (increased) total: 7
+ (no increase)
+ (no increase)
+ (increased) total: 8
+ (increased) total: 9
+ (increased) total: 10
+ (increased) total: 11
+ (no increase)
+ (no increase)
+ (no increase)
+ (increased) total: 12
+ (no increase)
+ (no increase)
+ (increased) total: 13
+ (increased) total: 14
+ (no increase)
+ (no increase)
+ (no increase)
+ (increased) total: 15
+ (increased) total: 16
+ (no increase)
+ (increased) total: 17
+ (increased) total: 18
+ (increased) total: 19
+ (increased) total: 20
+ (no increase)
+ (increased) total: 21
+ (increased) total: 22
+ (no increase)
+ (no increase)
+ (increased) total: 23
+ (no increase)
+ (increased) total: 24
+ (no increase)
+ (no increase)
+ (increased) total: 25
+ (increased) total: 26
+ (no increase)
+ (no increase)
+ (increased) total: 27
+ (increased) total: 28
+ (increased) total: 29
+ (increased) total: 30
+ (increased) total: 31
+ (no increase)
+ (no increase)
+ (increased) total: 32
+ (increased) total: 33
+ (no increase)
+ (no increase)
+ (increased) total: 34
+ (no increase)
+ (no increase)
+ (no increase)
+ (no increase)
+ (no increase)
+ (increased) total: 35
+ (increased) total: 36
+ (no increase)
+ (increased) total: 37
+ (no increase)
+ (increased) total: 38
+ (increased) total: 39
+ (increased) total: 40
+ (no increase)
+ (increased) total: 41
+ (increased) total: 42
+ (increased) total: 43
+ (no increase)
+ (no increase)
+ (increased) total: 44
+ (increased) total: 45
+ (no increase)
+ (no increase)
+ (increased) total: 46
+ (no increase)
+ (increased) total: 47
+ (increased) total: 48
+ (no increase)
+ (no increase)
+ (increased) total: 49
+ (no increase)
+ (no increase)
+ (no increase)
+ (increased) total: 50
+ (no increase)
+ (no increase)
+ (increased) total: 51
+ (no increase)
+ (increased) total: 52
+ (increased) total: 53
+ (increased) total: 54
+ (increased) total: 55
+ (no increase)
+ (no increase)
+ (increased) total: 56
+ (increased) total: 57
+ (increased) total: 58
+ (increased) total: 59
+ (no increase)
+ (increased) total: 60
+ (no increase)
+ (no increase)
+ (no increase)
+ (increased) total: 61
+ (increased) total: 62
+ (no increase)
+ (no increase)
+ (no increase)
+ (increased) total: 63
+ (increased) total: 64
+ (increased) total: 65
+ (increased) total: 66
+ (increased) total: 67
+ (no increase)
+ (increased) total: 68
+ (increased) total: 69
+ (increased) total: 70
+ (increased) total: 71
+ (increased) total: 72
+ (no increase)
+ (no increase)
+ (increased) total: 73
+ (no increase)
+ (increased) total: 74
+ (increased) total: 75
+ (increased) total: 76
+ (increased) total: 77
+ (no increase)
+ (increased) total: 78
+ (no increase)
+ (no increase)
+ (no increase)
+ (increased) total: 79
+ (increased) total: 80
+ (increased) total: 81
+ (no increase)
+ (increased) total: 82
+ (increased) total: 83
+ (increased) total: 84
+ (increased) total: 85
+ (no increase)
+ (increased) total: 86
+ (increased) total: 87
+ (increased) total: 88
+ (no increase)
+ (increased) total: 89
+ (increased) total: 90
+ (increased) total: 91
+ (increased) total: 92
+ (increased) total: 93
+ (no increase)
+ (increased) total: 94
+ (no increase)
+ (no increase)
+ (increased) total: 95
+ (increased) total: 96
+ (increased) total: 97
+ (increased) total: 98
+ (increased) total: 99
+ (increased) total: 100
+ (no increase)
+ (no increase)
+ (no increase)
+ (no increase)
+ (increased) total: 101
+ (no increase)
+ (no increase)
+ (increased) total: 102
+ (increased) total: 103
+ (no increase)
+ (increased) total: 104
+ (no increase)
+ (no increase)
+ (no increase)
+ (increased) total: 105
+ (increased) total: 106
+ (increased) total: 107
+ (no increase)
+ (no increase)
+ (increased) total: 108
+ (increased) total: 109
+ (increased) total: 110
+ (increased) total: 111
+ (no increase)
+ (increased) total: 112
+ (increased) total: 113
+ (increased) total: 114
+ (increased) total: 115
+ (no increase)
+ (increased) total: 116
+ (increased) total: 117
+ (increased) total: 118
+ (increased) total: 119
+ (no increase)
+ (no increase)
+ (increased) total: 120
+ (increased) total: 121
+ (increased) total: 122
+ (no increase)
+ (no increase)
+ (increased) total: 123
+ (increased) total: 124
+ (increased) total: 125
+ (increased) total: 126
+ (increased) total: 127
+ (increased) total: 128
+ (no increase)
+ (increased) total: 129
+ (no increase)
+ (no increase)
+ (no increase)
+ (no increase)
+ (increased) total: 130
+ (increased) total: 131
+ (no increase)
+ (increased) total: 132
+ (no increase)
+ (increased) total: 133
+ (increased) total: 134
+ (increased) total: 135
+ (increased) total: 136
+ (increased) total: 137
+ (increased) total: 138
+ (no increase)
+ (no increase)
+ (no increase)
+ (increased) total: 139
+ (no increase)
+ (no increase)
+ (increased) total: 140
+ (no increase)
+ (increased) total: 141
+ (no increase)
+ (increased) total: 142
+ (increased) total: 143
+ (increased) total: 144
+ (increased) total: 145
+ (increased) total: 146
+ (increased) total: 147
+ (no increase)
+ (increased) total: 148
+ (no increase)
+ (increased) total: 149
+ (increased) total: 150
+ (increased) total: 151
+ (increased) total: 152
+ (no increase)
+ (increased) total: 153
+ (increased) total: 154
+ (no increase)
+ (increased) total: 155
+ (no increase)
+ (no increase)
+ (increased) total: 156
+ (increased) total: 157
+ (no increase)
+ (increased) total: 158
+ (no increase)
+ (increased) total: 159
+ (increased) total: 160
+ (increased) total: 161
+ (increased) total: 162
+ (increased) total: 163
+ (no increase)
+ (increased) total: 164
+ (increased) total: 165
+ (increased) total: 166
+ (no increase)
+ (increased) total: 167
+ (increased) total: 168
+ (increased) total: 169
+ (no increase)
+ (no increase)
+ (increased) total: 170
+ (no increase)
+ (no increase)
+ (increased) total: 171
+ (no increase)
+ (no increase)
+ (no increase)
+ (increased) total: 172
+ (increased) total: 173
+ (no increase)
+ (no increase)
+ (increased) total: 174
+ (increased) total: 175
+ (increased) total: 176
+ (increased) total: 177
+ (increased) total: 178
+ (increased) total: 179
+ (increased) total: 180
+ (increased) total: 181
+ (no increase)
+ (increased) total: 182
+ (increased) total: 183
+ (no increase)
+ (no increase)
+ (no increase)
+ (increased) total: 184
+ (no increase)
+ (increased) total: 185
+ (increased) total: 186
+ (increased) total: 187
+ (increased) total: 188
+ (increased) total: 189
+ (no increase)
+ (increased) total: 190
+ (increased) total: 191
+ (no increase)
+ (increased) total: 192
+ (increased) total: 193
+ (increased) total: 194
+ (increased) total: 195
+ (no increase)
+ (no increase)
+ (no increase)
+ (increased) total: 196
+ (no increase)
+ (increased) total: 197
+ (no increase)
+ (no increase)
+ (no increase)
+ (no increase)
+ (no increase)
+ (increased) total: 198
+ (increased) total: 199
+ (increased) total: 200
+ (no increase)
+ (increased) total: 201
+ (increased) total: 202
+ (increased) total: 203
+ (increased) total: 204
+ (no increase)
+ (no increase)
+ (increased) total: 205
+ (increased) total: 206
+ (no increase)
+ (increased) total: 207
+ (no increase)
+ (increased) total: 208
+ (increased) total: 209
+ (no increase)
+ (no increase)
+ (no increase)
+ (no increase)
+ (increased) total: 210
+ (no increase)
+ (increased) total: 211
+ (no increase)
+ (increased) total: 212
+ (increased) total: 213
+ (no increase)
+ (increased) total: 214
+ (increased) total: 215
+ (increased) total: 216
+ (no increase)
+ (increased) total: 217
+ (increased) total: 218
+ (increased) total: 219
+ (no increase)
+ (increased) total: 220
+ (increased) total: 221
+ (no increase)
+ (increased) total: 222
+ (no increase)
+ (no increase)
+ (increased) total: 223
+ (increased) total: 224
+ (no increase)
+ (no increase)
+ (increased) total: 225
+ (increased) total: 226
+ (no increase)
+ (no increase)
+ (no increase)
+ (increased) total: 227
+ (no increase)
+ (increased) total: 228
+ (no increase)
+ (no increase)
+ (increased) total: 229
+ (increased) total: 230
+ (increased) total: 231
+ (no increase)
+ (increased) total: 232
+ (no increase)
+ (no increase)
+ (no increase)
+ (no increase)
+ (no increase)
+ (increased) total: 233
+ (no increase)
+ (no increase)
+ (increased) total: 234
+ (no increase)
+ (increased) total: 235
+ (no increase)
+ (increased) total: 236
+ (increased) total: 237
+ (increased) total: 238
+ (increased) total: 239
+ (increased) total: 240
+ (increased) total: 241
+ (increased) total: 242
+ (no increase)
+ (no increase)
+ (increased) total: 243
+ (increased) total: 244
+ (increased) total: 245
+ (no increase)
+ (increased) total: 246
+ (increased) total: 247
+ (increased) total: 248
+ (no increase)
+ (increased) total: 249
+ (increased) total: 250
+ (increased) total: 251
+ (no increase)
+ (no increase)
+ (increased) total: 252
+ (increased) total: 253
+ (increased) total: 254
+ (increased) total: 255
+ (increased) total: 256
+ (increased) total: 257
+ (increased) total: 258
+ (no increase)
+ (increased) total: 259
+ (increased) total: 260
+ (increased) total: 261
+ (no increase)
+ (no increase)
+ (no increase)
+ (no increase)
+ (no increase)
+ (increased) total: 262
+ (no increase)
+ (no increase)
+ (no increase)
+ (increased) total: 263
+ (increased) total: 264
+ (increased) total: 265
+ (increased) total: 266
+ (increased) total: 267
+ (increased) total: 268
+ (no increase)
+ (increased) total: 269
+ (no increase)
+ (no increase)
+ (no increase)
+ (increased) total: 270
+ (increased) total: 271
+ (increased) total: 272
+ (increased) total: 273
+ (no increase)
+ (increased) total: 274
+ (no increase)
+ (increased) total: 275
+ (increased) total: 276
+ (increased) total: 277
+ (increased) total: 278
+ (no increase)
+ (no increase)
+ (increased) total: 279
+ (increased) total: 280
+ (increased) total: 281
+ (no increase)
+ (increased) total: 282
+ (no increase)
+ (no increase)
+ (no increase)
+ (increased) total: 283
+ (increased) total: 284
+ (increased) total: 285
+ (no increase)
+ (increased) total: 286
+ (increased) total: 287
+ (no increase)
+ (increased) total: 288
+ (no increase)
+ (no increase)
+ (increased) total: 289
+ (increased) total: 290
+ (increased) total: 291
+ (no increase)
+ (increased) total: 292
+ (increased) total: 293
+ (no increase)
+ (no increase)
+ (increased) total: 294
+ (no increase)
+ (increased) total: 295
+ (increased) total: 296
+ (no increase)
+ (no increase)
+ (increased) total: 297
+ (increased) total: 298
+ (increased) total: 299
+ (increased) total: 300
+ (increased) total: 301
+ (no increase)
+ (no increase)
+ (increased) total: 302
+ (increased) total: 303
+ (no increase)
+ (increased) total: 304
+ (increased) total: 305
+ (no increase)
+ (no increase)
+ (increased) total: 306
+ (no increase)
+ (increased) total: 307
+ (increased) total: 308
+ (increased) total: 309
+ (no increase)
+ (no increase)
+ (no increase)
+ (no increase)
+ (increased) total: 310
+ (increased) total: 311
+ (no increase)
+ (no increase)
+ (increased) total: 312
+ (increased) total: 313
+ (increased) total: 314
+ (increased) total: 315
+ (no increase)
+ (increased) total: 316
+ (increased) total: 317
+ (increased) total: 318
+ (no increase)
+ (increased) total: 319
+ (no increase)
+ (increased) total: 320
+ (increased) total: 321
+ (no increase)
+ (no increase)
+ (increased) total: 322
+ (increased) total: 323
+ (increased) total: 324
+ (no increase)
+ (increased) total: 325
+ (increased) total: 326
+ (no increase)
+ (no increase)
+ (no increase)
+ (increased) total: 327
+ (increased) total: 328
+ (no increase)
+ (increased) total: 329
+ (no increase)
+ (no increase)
+ (increased) total: 330
+ (increased) total: 331
+ (increased) total: 332
+ (no increase)
+ (increased) total: 333
+ (increased) total: 334
+ (no increase)
+ (no increase)
+ (increased) total: 335
+ (increased) total: 336
+ (increased) total: 337
+ (increased) total: 338
+ (no increase)
+ (no increase)
+ (increased) total: 339
+ (no increase)
+ (no increase)
+ (no increase)
+ (no increase)
+ (no increase)
+ (increased) total: 340
+ (no increase)
+ (no increase)
+ (increased) total: 341
+ (increased) total: 342
+ (no increase)
+ (increased) total: 343
+ (no increase)
+ (increased) total: 344
+ (no increase)
+ (no increase)
+ (increased) total: 345
+ (no increase)
+ (no increase)
+ (increased) total: 346
+ (increased) total: 347
+ (increased) total: 348
+ (increased) total: 349
+ (increased) total: 350
+ (no increase)
+ (no increase)
+ (increased) total: 351
+ (increased) total: 352
+ (increased) total: 353
+ (no increase)
+ (no increase)
+ (increased) total: 354
+ (increased) total: 355
+ (increased) total: 356
+ (no increase)
+ (increased) total: 357
+ (no increase)
+ (no increase)
+ (increased) total: 358
+ (no increase)
+ (increased) total: 359
+ (no increase)
+ (increased) total: 360
+ (increased) total: 361
+ (increased) total: 362
+ (increased) total: 363
+ (increased) total: 364
+ (increased) total: 365
+ (no increase)
+ (no increase)
+ (no increase)
+ (increased) total: 366
+ (increased) total: 367
+ (increased) total: 368
+ (no increase)
+ (no increase)
+ (increased) total: 369
+ (no increase)
+ (increased) total: 370
+ (no increase)
+ (increased) total: 371
+ (increased) total: 372
+ (no increase)
+ (increased) total: 373
+ (no increase)
+ (increased) total: 374
+ (increased) total: 375
+ (no increase)
+ (increased) total: 376
+ (increased) total: 377
+ (no increase)
+ (no increase)
+ (no increase)
+ (no increase)
+ (no increase)
+ (increased) total: 378
+ (no increase)
+ (increased) total: 379
+ (increased) total: 380
+ (increased) total: 381
+ (increased) total: 382
+ (increased) total: 383
+ (increased) total: 384
+ (no increase)
+ (no increase)
+ (increased) total: 385
+ (no increase)
+ (no increase)
+ (no increase)
+ (no increase)
+ (no increase)
+ (no increase)
+ (increased) total: 386
+ (no increase)
+ (increased) total: 387
+ (no increase)
+ (no increase)
+ (increased) total: 388
+ (increased) total: 389
+ (increased) total: 390
+ (increased) total: 391
+ (no increase)
+ (increased) total: 392
+ (increased) total: 393
+ (no increase)
+ (increased) total: 394
+ (increased) total: 395
+ (increased) total: 396
+ (increased) total: 397
+ (increased) total: 398
+ (increased) total: 399
+ (no increase)
+ (increased) total: 400
+ (increased) total: 401
+ (increased) total: 402
+ (no increase)
+ (increased) total: 403
+ (no increase)
+ (no increase)
+ (increased) total: 404
+ (no increase)
+ (increased) total: 405
+ (no increase)
+ (increased) total: 406
+ (increased) total: 407
+ (increased) total: 408
+ (no increase)
+ (increased) total: 409
+ (no increase)
+ (no increase)
+ (increased) total: 410
+ (increased) total: 411
+ (increased) total: 412
+ (no increase)
+ (increased) total: 413
+ (no increase)
+ (increased) total: 414
+ (increased) total: 415
+ (no increase)
+ (no increase)
+ (no increase)
+ (no increase)
+ (no increase)
+ (increased) total: 416
+ (no increase)
+ (no increase)
+ (no increase)
+ (no increase)
+ (no increase)
+ (increased) total: 417
+ (no increase)
+ (no increase)
+ (increased) total: 418
+ (no increase)
+ (increased) total: 419
+ (increased) total: 420
+ (increased) total: 421
+ (no increase)
+ (no increase)
+ (no increase)
+ (increased) total: 422
+ (increased) total: 423
+ (no increase)
+ (increased) total: 424
+ (no increase)
+ (increased) total: 425
+ (no increase)
+ (no increase)
+ (increased) total: 426
+ (no increase)
+ (no increase)
+ (increased) total: 427
+ (no increase)
+ (increased) total: 428
+ (increased) total: 429
+ (no increase)
+ (increased) total: 430
+ (no increase)
+ (increased) total: 431
+ (increased) total: 432
+ (no increase)
+ (no increase)
+ (increased) total: 433
+ (no increase)
+ (no increase)
+ (increased) total: 434
+ (no increase)
+ (increased) total: 435
+ (no increase)
+ (increased) total: 436
+ (no increase)
+ (no increase)
+ (increased) total: 437
+ (increased) total: 438
+ (increased) total: 439
+ (no increase)
+ (no increase)
+ (increased) total: 440
+ (increased) total: 441
+ (no increase)
+ (no increase)
+ (increased) total: 442
+ (increased) total: 443
+ (increased) total: 444
+ (increased) total: 445
+ (increased) total: 446
+ (increased) total: 447
+ (increased) total: 448
+ (no increase)
+ (no increase)
+ (no increase)
+ (no increase)
+ (no increase)
+ (increased) total: 449
+ (no increase)
+ (no increase)
+ (increased) total: 450
+ (increased) total: 451
+ (no increase)
+ (increased) total: 452
+ (increased) total: 453
+ (no increase)
+ (increased) total: 454
+ (no increase)
+ (increased) total: 455
+ (increased) total: 456
+ (increased) total: 457
+ (increased) total: 458
+ (increased) total: 459
+ (increased) total: 460
+ (no increase)
+ (increased) total: 461
+ (increased) total: 462
+ (increased) total: 463
+ (no increase)
+ (increased) total: 464
+ (increased) total: 465
+ (increased) total: 466
+ (increased) total: 467
+ (no increase)
+ (increased) total: 468
+ (no increase)
+ (increased) total: 469
+ (increased) total: 470
+ (increased) total: 471
+ (increased) total: 472
+ (increased) total: 473
+ (no increase)
+ (no increase)
+ (no increase)
+ (increased) total: 474
+ (increased) total: 475
+ (increased) total: 476
+ (increased) total: 477
+ (no increase)
+ (increased) total: 478
+ (increased) total: 479
+ (increased) total: 480
+ (increased) total: 481
+ (no increase)
+ (increased) total: 482
+ (increased) total: 483
+ (no increase)
+ (no increase)
+ (no increase)
+ (increased) total: 484
+ (increased) total: 485
+ (no increase)
+ (no increase)
+ (no increase)
+ (increased) total: 486
+ (increased) total: 487
+ (no increase)
+ (no increase)
+ (increased) total: 488
+ (increased) total: 489
+ (increased) total: 490
+ (increased) total: 491
+ (increased) total: 492
+ (increased) total: 493
+ (no increase)
+ (no increase)
+ (no increase)
+ (increased) total: 494
+ (no increase)
+ (no increase)
+ (no increase)
+ (no increase)
+ (increased) total: 495
+ (no increase)
+ (increased) total: 496
+ (increased) total: 497
+ (increased) total: 498
+ (no increase)
+ (increased) total: 499
+ (no increase)
+ (no increase)
+ (no increase)
+ (increased) total: 500
+ (no increase)
+ (no increase)
+ (increased) total: 501
+ (increased) total: 502
+ (no increase)
+ (no increase)
+ (increased) total: 503
+ (increased) total: 504
+ (increased) total: 505
+ (increased) total: 506
+ (no increase)
+ (increased) total: 507
+ (increased) total: 508
+ (no increase)
+ (increased) total: 509
+ (increased) total: 510
+ (no increase)
+ (increased) total: 511
+ (no increase)
+ (increased) total: 512
+ (increased) total: 513
+ (increased) total: 514
+ (increased) total: 515
+ (increased) total: 516
+ (increased) total: 517
+ (increased) total: 518
+ (no increase)
+ (no increase)
+ (increased) total: 519
+ (increased) total: 520
+ (increased) total: 521
+ (increased) total: 522
+ (increased) total: 523
+ (increased) total: 524
+ (no increase)
+ (increased) total: 525
+ (increased) total: 526
+ (increased) total: 527
+ (increased) total: 528
+ (no increase)
+ (increased) total: 529
+ (no increase)
+ (no increase)
+ (increased) total: 530
+ (increased) total: 531
+ (increased) total: 532
+ (no increase)
+ (increased) total: 533
+ (increased) total: 534
+ (no increase)
+ (increased) total: 535
+ (increased) total: 536
+ (increased) total: 537
+ (no increase)
+ (increased) total: 538
+ (increased) total: 539
+ (increased) total: 540
+ (increased) total: 541
+ (increased) total: 542
+ (increased) total: 543
+ (no increase)
+ (increased) total: 544
+ (no increase)
+ (no increase)
+ (increased) total: 545
+ (increased) total: 546
+ (no increase)
+ (increased) total: 547
+ (increased) total: 548
+ (increased) total: 549
+ (increased) total: 550
+ (increased) total: 551
+ (increased) total: 552
+ (no increase)
+ (increased) total: 553
+ (increased) total: 554
+ (increased) total: 555
+ (increased) total: 556
+ (no increase)
+ (increased) total: 557
+ (no increase)
+ (increased) total: 558
+ (increased) total: 559
+ (increased) total: 560
+ (increased) total: 561
+ (increased) total: 562
+ (no increase)
+ (increased) total: 563
+ (increased) total: 564
+ (increased) total: 565
+ (increased) total: 566
+ (no increase)
+ (no increase)
+ (no increase)
+ (no increase)
+ (increased) total: 567
+ (no increase)
+ (increased) total: 568
+ (no increase)
+ (no increase)
+ (increased) total: 569
+ (increased) total: 570
+ (no increase)
+ (increased) total: 571
+ (increased) total: 572
+ (increased) total: 573
+ (no increase)
+ (increased) total: 574
+ (increased) total: 575
+ (increased) total: 576
+ (no increase)
+ (no increase)
+ (increased) total: 577
+ (no increase)
+ (no increase)
+ (no increase)
+ (increased) total: 578
+ (no increase)
+ (no increase)
+ (no increase)
+ (no increase)
+ (no increase)
+ (increased) total: 579
+ (increased) total: 580
+ (increased) total: 581
+ (increased) total: 582
+ (no increase)
+ (increased) total: 583
+ (no increase)
+ (increased) total: 584
+ (increased) total: 585
+ (increased) total: 586
+ (no increase)
+ (no increase)
+ (increased) total: 587
+ (no increase)
+ (no increase)
+ (increased) total: 588
+ (increased) total: 589
+ (no increase)
+ (no increase)
+ (no increase)
+ (no increase)
+ (increased) total: 590
+ (increased) total: 591
+ (increased) total: 592
+ (no increase)
+ (increased) total: 593
+ (increased) total: 594
+ (increased) total: 595
+ (increased) total: 596
+ (increased) total: 597
+ (increased) total: 598
+ (no increase)
+ (increased) total: 599
+ (increased) total: 600
+ (no increase)
+ (no increase)
+ (increased) total: 601
+ (increased) total: 602
+ (increased) total: 603
+ (no increase)
+ (no increase)
+ (no increase)
+ (increased) total: 604
+ (increased) total: 605
+ (no increase)
+ (increased) total: 606
+ (no increase)
+ (increased) total: 607
+ (increased) total: 608
+ (no increase)
+ (increased) total: 609
+ (no increase)
+ (increased) total: 610
+ (increased) total: 611
+ (increased) total: 612
+ (no increase)
+ (no increase)
+ (no increase)
+ (no increase)
+ (no increase)
+ (increased) total: 613
+ (no increase)
+ (no increase)
+ (increased) total: 614
+ (increased) total: 615
+ (increased) total: 616
+ (increased) total: 617
+ (increased) total: 618
+ (no increase)
+ (increased) total: 619
+ (increased) total: 620
+ (increased) total: 621
+ (no increase)
+ (increased) total: 622
+ (no increase)
+ (no increase)
+ (no increase)
+ (increased) total: 623
+ (increased) total: 624
+ (increased) total: 625
+ (increased) total: 626
+ (no increase)
+ (increased) total: 627
+ (increased) total: 628
+ (increased) total: 629
+ (no increase)
+ (no increase)
+ (no increase)
+ (increased) total: 630
+ (no increase)
+ (no increase)
+ (increased) total: 631
+ (increased) total: 632
+ (increased) total: 633
+ (increased) total: 634
+ (no increase)
+ (increased) total: 635
+ (increased) total: 636
+ (no increase)
+ (increased) total: 637
+ (increased) total: 638
+ (increased) total: 639
+ (increased) total: 640
+ (increased) total: 641
+ (increased) total: 642
+ (no increase)
+ (no increase)
+ (no increase)
+ (no increase)
+ (increased) total: 643
+ (no increase)
+ (no increase)
+ (no increase)
+ (increased) total: 644
+ (increased) total: 645
+ (no increase)
+ (increased) total: 646
+ (increased) total: 647
+ (increased) total: 648
+ (increased) total: 649
+ (increased) total: 650
+ (increased) total: 651
+ (increased) total: 652
+ (increased) total: 653
+ (no increase)
+ (no increase)
+ (increased) total: 654
+ (increased) total: 655
+ (no increase)
+ (no increase)
+ (no increase)
+ (increased) total: 656
+ (no increase)
+ (no increase)
+ (increased) total: 657
+ (no increase)
+ (increased) total: 658
+ (no increase)
+ (increased) total: 659
+ (no increase)
+ (increased) total: 660
+ (increased) total: 661
+ (increased) total: 662
+ (no increase)
+ (no increase)
+ (no increase)
+ (increased) total: 663
+ (no increase)
+ (increased) total: 664
+ (increased) total: 665
+ (no increase)
+ (increased) total: 666
+ (no increase)
+ (no increase)
+ (no increase)
+ (no increase)
+ (increased) total: 667
+ (increased) total: 668
+ (no increase)
+ (increased) total: 669
+ (no increase)
+ (no increase)
+ (no increase)
+ (increased) total: 670
+ (no increase)
+ (no increase)
+ (increased) total: 671
+ (no increase)
+ (increased) total: 672
+ (no increase)
+ (no increase)
+ (increased) total: 673
+ (increased) total: 674
+ (no increase)
+ (increased) total: 675
+ (no increase)
+ (increased) total: 676
+ (no increase)
+ (no increase)
+ (increased) total: 677
+ (increased) total: 678
+ (increased) total: 679
+ (increased) total: 680
+ (increased) total: 681
+ (increased) total: 682
+ (increased) total: 683
+ (no increase)
+ (no increase)
+ (increased) total: 684
+ (no increase)
+ (increased) total: 685
+ (increased) total: 686
+ (no increase)
+ (no increase)
+ (increased) total: 687
+ (no increase)
+ (no increase)
+ (increased) total: 688
+ (no increase)
+ (no increase)
+ (increased) total: 689
+ (no increase)
+ (no increase)
+ (increased) total: 690
+ (increased) total: 691
+ (increased) total: 692
+ (increased) total: 693
+ (increased) total: 694
+ (increased) total: 695
+ (no increase)
+ (increased) total: 696
+ (increased) total: 697
+ (increased) total: 698
+ (increased) total: 699
+ (no increase)
+ (increased) total: 700
+ (increased) total: 701
+ (increased) total: 702
+ (increased) total: 703
+ (increased) total: 704
+ (no increase)
+ (increased) total: 705
+ (increased) total: 706
+ (increased) total: 707
+ (no increase)
+ (increased) total: 708
+ (increased) total: 709
+ (no increase)
+ (no increase)
+ (no increase)
+ (increased) total: 710
+ (increased) total: 711
+ (no increase)
+ (increased) total: 712
+ (increased) total: 713
+ (increased) total: 714
+ (increased) total: 715
+ (no increase)
+ (no increase)
+ (no increase)
+ (increased) total: 716
+ (increased) total: 717
+ (no increase)
+ (no increase)
+ (increased) total: 718
+ (increased) total: 719
+ (no increase)
+ (increased) total: 720
+ (no increase)
+ (increased) total: 721
+ (no increase)
+ (no increase)
+ (increased) total: 722
+ (increased) total: 723
+ (no increase)
+ (no increase)
+ (increased) total: 724
+ (increased) total: 725
+ (no increase)
+ (increased) total: 726
+ (no increase)
+ (increased) total: 727
+ (no increase)
+ (no increase)
+ (no increase)
+ (no increase)
+ (increased) total: 728
+ (increased) total: 729
+ (increased) total: 730
+ (increased) total: 731
+ (no increase)
+ (increased) total: 732
+ (increased) total: 733
+ (increased) total: 734
+ (no increase)
+ (increased) total: 735
+ (no increase)
+ (no increase)
+ (increased) total: 736
+ (increased) total: 737
+ (increased) total: 738
+ (no increase)
+ (no increase)
+ (increased) total: 739
+ (increased) total: 740
+ (no increase)
+ (increased) total: 741
+ (no increase)
+ (increased) total: 742
+ (increased) total: 743
+ (increased) total: 744
+ (increased) total: 745
+ (no increase)
+ (increased) total: 746
+ (no increase)
+ (no increase)
+ (no increase)
+ (increased) total: 747
+ (no increase)
+ (increased) total: 748
+ (no increase)
+ (increased) total: 749
+ (no increase)
+ (increased) total: 750
+ (no increase)
+ (no increase)
+ (no increase)
+ (increased) total: 751
+ (no increase)
+ (no increase)
+ (increased) total: 752
+ (increased) total: 753
+ (no increase)
+ (increased) total: 754
+ (no increase)
+ (increased) total: 755
+ (increased) total: 756
+ (no increase)
+ (increased) total: 757
+ (increased) total: 758
+ (increased) total: 759
+ (increased) total: 760
+ (no increase)
+ (increased) total: 761
+ (increased) total: 762
+ (increased) total: 763
+ (increased) total: 764
+ (no increase)
+ (increased) total: 765
+ (increased) total: 766
+ (increased) total: 767
+ (increased) total: 768
+ (increased) total: 769
+ (increased) total: 770
+ (increased) total: 771
+ (increased) total: 772
+ (increased) total: 773
+ (no increase)
+ (no increase)
+ (increased) total: 774
+ (increased) total: 775
+ (no increase)
+ (no increase)
+ (no increase)
+ (increased) total: 776
+ (increased) total: 777
+ (increased) total: 778
+ (increased) total: 779
+ (increased) total: 780
+ (no increase)
+ (no increase)
+ (increased) total: 781
+ (increased) total: 782
+ (no increase)
+ (increased) total: 783
+ (no increase)
+ (no increase)
+ (increased) total: 784
+ (increased) total: 785
+ (no increase)
+ (no increase)
+ (no increase)
+ (increased) total: 786
+ (increased) total: 787
+ (no increase)
+ (no increase)
+ (increased) total: 788
+ (no increase)
+ (increased) total: 789
+ (increased) total: 790
+ (increased) total: 791
+ (no increase)
+ (no increase)
+ (no increase)
+ (no increase)
+ (increased) total: 792
+ (no increase)
+ (no increase)
+ (increased) total: 793
+ (increased) total: 794
+ (no increase)
+ (no increase)
+ (no increase)
+ (no increase)
+ (no increase)
+ (increased) total: 795
+ (no increase)
+ (increased) total: 796
+ (increased) total: 797
+ (no increase)
+ (increased) total: 798
+ (increased) total: 799
+ (increased) total: 800
+ (increased) total: 801
+ (increased) total: 802
+ (increased) total: 803
+ (no increase)
+ (increased) total: 804
+ (increased) total: 805
+ (increased) total: 806
+ (increased) total: 807
+ (no increase)
+ (increased) total: 808
+ (no increase)
+ (no increase)
+ (increased) total: 809
+ (increased) total: 810
+ (increased) total: 811
+ (increased) total: 812
+ (increased) total: 813
+ (increased) total: 814
+ (increased) total: 815
+ (increased) total: 816
+ (increased) total: 817
+ (increased) total: 818
+ (increased) total: 819
+ (no increase)
+ (increased) total: 820
+ (increased) total: 821
+ (increased) total: 822
+ (increased) total: 823
+ (no increase)
+ (increased) total: 824
+ (no increase)
+ (increased) total: 825
+ (increased) total: 826
+ (no increase)
+ (increased) total: 827
+ (no increase)
+ (no increase)
+ (increased) total: 828
+ (no increase)
+ (increased) total: 829
+ (increased) total: 830
+ (increased) total: 831
+ (increased) total: 832
+ (increased) total: 833
+ (increased) total: 834
+ (increased) total: 835
+ (increased) total: 836
+ (no increase)
+ (increased) total: 837
+ (no increase)
+ (no increase)
+ (increased) total: 838
+ (no increase)
+ (increased) total: 839
+ (increased) total: 840
+ (increased) total: 841
+ (increased) total: 842
+ (increased) total: 843
+ (increased) total: 844
+ (no increase)
+ (no increase)
+ (increased) total: 845
+ (increased) total: 846
+ (increased) total: 847
+ (increased) total: 848
+ (no increase)
+ (no increase)
+ (increased) total: 849
+ (increased) total: 850
+ (increased) total: 851
+ (no increase)
+ (no increase)
+ (no increase)
+ (no increase)
+ (increased) total: 852
+ (no increase)
+ (increased) total: 853
+ (increased) total: 854
+ (increased) total: 855
+ (increased) total: 856
+ (no increase)
+ (increased) total: 857
+ (increased) total: 858
+ (increased) total: 859
+ (increased) total: 860
+ (no increase)
+ (increased) total: 861
+ (increased) total: 862
+ (increased) total: 863
+ (increased) total: 864
+ (no increase)
+ (increased) total: 865
+ (no increase)
+ (no increase)
+ (increased) total: 866
+ (increased) total: 867
+ (no increase)
+ (increased) total: 868
+ (no increase)
+ (no increase)
+ (increased) total: 869
+ (increased) total: 870
+ (no increase)
+ (increased) total: 871
+ (increased) total: 872
+ (increased) total: 873
+ (no increase)
+ (increased) total: 874
+ (no increase)
+ (increased) total: 875
+ (increased) total: 876
+ (increased) total: 877
+ (increased) total: 878
+ (no increase)
+ (increased) total: 879
+ (increased) total: 880
+ (increased) total: 881
+ (no increase)
+ (increased) total: 882
+ (increased) total: 883
+ (no increase)
+ (increased) total: 884
+ (increased) total: 885
+ (increased) total: 886
+ (increased) total: 887
+ (increased) total: 888
+ (no increase)
+ (no increase)
+ (increased) total: 889
+ (no increase)
+ (increased) total: 890
+ (increased) total: 891
+ (no increase)
+ (no increase)
+ (no increase)
+ (increased) total: 892
+ (increased) total: 893
+ (no increase)
+ (no increase)
+ (increased) total: 894
+ (increased) total: 895
+ (no increase)
+ (no increase)
+ (increased) total: 896
+ (no increase)
+ (no increase)
+ (increased) total: 897
+ (no increase)
+ (increased) total: 898
+ (increased) total: 899
+ (no increase)
+ (no increase)
+ (increased) total: 900
+ (no increase)
+ (no increase)
+ (no increase)
+ (no increase)
+ (no increase)
+ (increased) total: 901
+ (increased) total: 902
+ (no increase)
+ (no increase)
+ (no increase)
+ (no increase)
+ (increased) total: 903
+ (increased) total: 904
+ (no increase)
+ (no increase)
+ (no increase)
+ (increased) total: 905
+ (increased) total: 906
+ (no increase)
+ (increased) total: 907
+ (increased) total: 908
+ (increased) total: 909
+ (no increase)
+ (no increase)
+ (increased) total: 910
+ (increased) total: 911
+ (increased) total: 912
+ (increased) total: 913
+ (increased) total: 914
+ (no increase)
+ (increased) total: 915
+ (increased) total: 916
+ (no increase)
+ (increased) total: 917
+ (no increase)
+ (no increase)
+ (increased) total: 918
+ (increased) total: 919
+ (no increase)
+ (increased) total: 920
+ (no increase)
+ (increased) total: 921
+ (increased) total: 922
+ (increased) total: 923
+ (increased) total: 924
+ (increased) total: 925
+ (no increase)
+ (no increase)
+ (no increase)
+ (increased) total: 926
+ (increased) total: 927
+ (no increase)
+ (increased) total: 928
+ (no increase)
+ (increased) total: 929
+ (no increase)
+ (increased) total: 930
+ (increased) total: 931
+ (increased) total: 932
+ (no increase)
+ (increased) total: 933
+ (no increase)
+ (no increase)
+ (increased) total: 934
+ (increased) total: 935
+ (no increase)
+ (increased) total: 936
+ (no increase)
+ (increased) total: 937
+ (increased) total: 938
+ (no increase)
+ (no increase)
+ (no increase)
+ (no increase)
+ (increased) total: 939
+ (increased) total: 940
+ (increased) total: 941
+ (no increase)
+ (increased) total: 942
+ (increased) total: 943
+ (increased) total: 944
+ (increased) total: 945
+ (increased) total: 946
+ (no increase)
+ (no increase)
+ (increased) total: 947
+ (increased) total: 948
+ (no increase)
+ (increased) total: 949
+ (increased) total: 950
+ (increased) total: 951
+ (increased) total: 952
+ (increased) total: 953
+ (no increase)
+ (no increase)
+ (increased) total: 954
+ (increased) total: 955
+ (increased) total: 956
+ (no increase)
+ (increased) total: 957
+ (no increase)
+ (no increase)
+ (increased) total: 958
+ (increased) total: 959
+ (increased) total: 960
+ (increased) total: 961
+ (increased) total: 962
+ (increased) total: 963
+ (no increase)
+ (increased) total: 964
+ (increased) total: 965
+ (no increase)
+ (increased) total: 966
+ (increased) total: 967
+ (no increase)
+ (no increase)
+ (no increase)
+ (increased) total: 968
+ (increased) total: 969
+ (no increase)
+ (increased) total: 970
+ (no increase)
+ (increased) total: 971
+ (increased) total: 972
+ (increased) total: 973
+ (increased) total: 974
+ (increased) total: 975
+ (increased) total: 976
+ (no increase)
+ (no increase)
+ (increased) total: 977
+ (no increase)
+ (increased) total: 978
+ (increased) total: 979
+ (increased) total: 980
+ (increased) total: 981
+ (increased) total: 982
+ (no increase)
+ (increased) total: 983
+ (no increase)
+ (increased) total: 984
+ (no increase)
+ (no increase)
+ (no increase)
+ (increased) total: 985
+ (no increase)
+ (increased) total: 986
+ (increased) total: 987
+ (no increase)
+ (no increase)
+ (increased) total: 988
+ (increased) total: 989
+ (no increase)
+ (no increase)
+ (increased) total: 990
+ (increased) total: 991
+ (increased) total: 992
+ (increased) total: 993
+ (increased) total: 994
+ (no increase)
+ (increased) total: 995
+ (no increase)
+ (no increase)
+ (increased) total: 996
+ (increased) total: 997
+ (no increase)
+ (increased) total: 998
+ (increased) total: 999
+ (increased) total: 1000
+ (no increase)
+ (no increase)
+ (increased) total: 1001
+ (no increase)
+ (increased) total: 1002
+ (no increase)
+ (increased) total: 1003
+ (increased) total: 1004
+ (increased) total: 1005
+ (no increase)
+ (increased) total: 1006
+ (increased) total: 1007
+ (increased) total: 1008
+ (increased) total: 1009
+ (increased) total: 1010
+ (increased) total: 1011
+ (increased) total: 1012
+ (no increase)
+ (no increase)
+ (increased) total: 1013
+ (no increase)
+ (increased) total: 1014
+ (no increase)
+ (no increase)
+ (increased) total: 1015
+ (no increase)
+ (increased) total: 1016
+ (no increase)
+ (no increase)
+ (no increase)
+ (no increase)
+ (no increase)
+ (increased) total: 1017
+ (no increase)
+ (increased) total: 1018
+ (increased) total: 1019
+ (increased) total: 1020
+ (increased) total: 1021
+ (no increase)
+ (no increase)
+ (increased) total: 1022
+ (increased) total: 1023
+ (no increase)
+ (increased) total: 1024
+ (increased) total: 1025
+ (increased) total: 1026
+ (increased) total: 1027
+ (increased) total: 1028
+ (no increase)
+ (no increase)
+ (no increase)
+ (increased) total: 1029
+ (increased) total: 1030
+ (increased) total: 1031
+ (no increase)
+ (no increase)
+ (increased) total: 1032
+ (increased) total: 1033
+ (increased) total: 1034
+ (increased) total: 1035
+ (no increase)
+ (increased) total: 1036
+ (no increase)
+ (no increase)
+ (no increase)
+ (no increase)
+ (increased) total: 1037
+ (increased) total: 1038
+ (increased) total: 1039
+ (increased) total: 1040
+ (increased) total: 1041
+ (no increase)
+ (increased) total: 1042
+ (increased) total: 1043
+ (no increase)
+ (increased) total: 1044
+ (increased) total: 1045
+ (no increase)
+ (increased) total: 1046
+ (no increase)
+ (increased) total: 1047
+ (increased) total: 1048
+ (no increase)
+ (no increase)
+ (increased) total: 1049
+ (increased) total: 1050
+ (no increase)
+ (increased) total: 1051
+ (no increase)
+ (increased) total: 1052
+ (no increase)
+ (increased) total: 1053
+ (increased) total: 1054
+ (increased) total: 1055
+ (no increase)
+ (increased) total: 1056
+ (increased) total: 1057
+ (increased) total: 1058
+ (no increase)
+ (increased) total: 1059
+ (increased) total: 1060
+ (increased) total: 1061
+ (increased) total: 1062
+ (increased) total: 1063
+ (no increase)
+ (increased) total: 1064
+ (no increase)
+ (increased) total: 1065
+ (no increase)
+ (no increase)
+ (no increase)
+ (no increase)
+ (increased) total: 1066
+ (no increase)
+ (increased) total: 1067
+ (no increase)
+ (no increase)
+ (increased) total: 1068
+ (no increase)
+ (no increase)
+ (increased) total: 1069
+ (increased) total: 1070
+ (increased) total: 1071
+ (increased) total: 1072
+ (increased) total: 1073
+ (increased) total: 1074
+ (increased) total: 1075
+ (increased) total: 1076
+ (no increase)
+ (increased) total: 1077
+ (increased) total: 1078
+ (increased) total: 1079
+ (no increase)
+ (increased) total: 1080
+ (increased) total: 1081
+ (no increase)
+ (increased) total: 1082
+ (increased) total: 1083
+ (no increase)
+ (no increase)
+ (increased) total: 1084
+ (no increase)
+ (increased) total: 1085
+ (increased) total: 1086
+ (increased) total: 1087
+ (no increase)
+ (no increase)
+ (increased) total: 1088
+ (increased) total: 1089
+ (no increase)
+ (no increase)
+ (no increase)
+ (increased) total: 1090
+ (no increase)
+ (no increase)
+ (increased) total: 1091
+ (no increase)
+ (increased) total: 1092
+ (increased) total: 1093
+ (increased) total: 1094
+ (no increase)
+ (no increase)
+ (increased) total: 1095
+ (no increase)
+ (increased) total: 1096
+ (increased) total: 1097
+ (increased) total: 1098
+ (no increase)
+ (no increase)
+ (no increase)
+ (no increase)
+ (no increase)
+ (increased) total: 1099
+ (increased) total: 1100
+ (increased) total: 1101
+ (no increase)
+ (increased) total: 1102
+ (increased) total: 1103
+ (increased) total: 1104
+ (increased) total: 1105
+ (no increase)
+ (increased) total: 1106
+ (increased) total: 1107
+ (no increase)
+ (increased) total: 1108
+ (increased) total: 1109
+ (increased) total: 1110
+ (increased) total: 1111
+ (no increase)
+ (increased) total: 1112
+ (increased) total: 1113
+ (increased) total: 1114
+ (increased) total: 1115
+ (increased) total: 1116
+ (increased) total: 1117
+ (no increase)
+ (increased) total: 1118
+ (no increase)
+ (increased) total: 1119
+ (increased) total: 1120
+ (increased) total: 1121
+ (increased) total: 1122
+ (no increase)
+ (increased) total: 1123
+ (increased) total: 1124
+ (increased) total: 1125
+ (no increase)
+ (no increase)
+ (no increase)
+ (increased) total: 1126
+ (no increase)
+ (no increase)
+ (no increase)
+ (increased) total: 1127
+ (no increase)
+ (increased) total: 1128
+ (increased) total: 1129
+ (no increase)
+ (increased) total: 1130
+ (no increase)
+ (no increase)
+ (increased) total: 1131
+ (increased) total: 1132
+ (no increase)
+ (no increase)
+ (increased) total: 1133
+ (increased) total: 1134
+ (increased) total: 1135
+ (increased) total: 1136
+ (increased) total: 1137
+ (no increase)
+ (no increase)
+ (no increase)
+ (increased) total: 1138
+ (no increase)
+ (increased) total: 1139
+ (increased) total: 1140
+ (increased) total: 1141
+ (no increase)
+ (increased) total: 1142
+ (no increase)
+ (no increase)
+ (increased) total: 1143
+ (no increase)
+ (increased) total: 1144
+ (increased) total: 1145
+ (no increase)
+ (no increase)
+ (no increase)
+ (increased) total: 1146
+ (increased) total: 1147
+ (no increase)
+ (increased) total: 1148
+ (increased) total: 1149
+ (no increase)
+ (no increase)
+ (increased) total: 1150
+ (no increase)
+ (no increase)
+ (no increase)
+ (no increase)
+ (increased) total: 1151
+ (increased) total: 1152
+ (no increase)
+ (no increase)
+ (increased) total: 1153
+ (increased) total: 1154
+ (increased) total: 1155
+ (no increase)
+ (increased) total: 1156
+ (increased) total: 1157
+ (increased) total: 1158
+ (no increase)
+ (increased) total: 1159
+ (increased) total: 1160
+ (no increase)
+ (no increase)
+ (increased) total: 1161
+ (increased) total: 1162
+ (no increase)
+ (increased) total: 1163
+ (no increase)
+ (increased) total: 1164
+ (increased) total: 1165
+ (increased) total: 1166
+ (increased) total: 1167
